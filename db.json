@@ -1,0 +1,117 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Development of Enhanced A...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/1.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/7.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Build an advanced analytics dashboard...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/3.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/6.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "Development of Enhanced B...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/6.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/7.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "Build an advanced analytics dashboard 2...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/6.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/6.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "Development of Enhanced C...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/6.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/7.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 6,
+      "title": "Build an advanced analytics dashboard 3...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/1.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/6.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 7,
+      "title": "Development of Enhanced D...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/6.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/6.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 8,
+      "title": "Build an advanced analytics dashboard 4...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/3.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/7.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 9,
+      "title": "Development of Enhanced E...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/6.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/6.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 10,
+      "title": "Build an advanced analytics dashboard 5...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/6.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/7.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 11,
+      "title": "Development of Enhanced F...",
+      "url": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/1.png",
+      "thumbnailUrl": "https://spruko.com/demo/xintra/dist/assets/images/faces/6.jpg"
+    },
+    {
+      "id": 12,
+      "title": "dxcfghjkj",
+      "url": "f ghjkl",
+      "albumId": 1
+    },
+    {
+      "id": 13,
+      "title": "dwcev",
+      "url": "",
+      "albumId": 1
+    },
+    {
+      "id": 14,
+      "title": "crytvuybhj",
+      "url": "",
+      "albumId": 1
+    },
+    {
+      "id": 15,
+      "title": "drtfgybhj",
+      "url": "",
+      "albumId": 1
+    },
+    {
+      "id": 16,
+      "title": "cvgbhj",
+      "url": "",
+      "albumId": 1
+    },
+    {
+      "id": 17,
+      "title": "g jhknm",
+      "url": "",
+      "albumId": 1
+    }
+  ]
+}
