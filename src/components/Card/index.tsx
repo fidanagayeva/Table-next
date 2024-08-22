@@ -9,7 +9,7 @@ import Modal from "@/components/Modal";
 const fetcher = (url: string) => fetch(url).then(res => res.json());
 
 export const Table: FC = () => {
-  const { data, error, mutate } = useSWR<Photo[]>("http://localhost:3003/photos", fetcher);
+  const { data, mutate } = useSWR<Photo[]>("http://localhost:3003/photos", fetcher);
 
   const [selectedPhoto, setSelectedPhoto] = useState<Photo | null>(null);
   const [isEditModalOpen, setIsEditModalOpen] = useState(false);
@@ -19,9 +19,8 @@ export const Table: FC = () => {
   const [searchQuery, setSearchQuery] = useState(""); 
   const [currentPage, setCurrentPage] = useState(1);
   const [imageFile, setImageFile] = useState<File | null>(null);
-  const itemsPerPage = 5;
 
-  if (error) return <div>Error loading data</div>;
+
   if (!data) return <div>Loading...</div>;
 
   const handleDelete = async (id: number) => {
@@ -151,7 +150,7 @@ export const Table: FC = () => {
         </button>
         <input 
           type="text" 
-          placeholder="Search Project" 
+          placeholder="Search" 
           className="border border-gray-300 rounded py-2 px-4 w-full sm:w-auto"
           value={searchQuery} 
           onChange={(e) => setSearchQuery(e.target.value)} 
