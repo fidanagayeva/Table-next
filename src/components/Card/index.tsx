@@ -19,7 +19,7 @@ export const Table: FC = () => {
   const [searchQuery, setSearchQuery] = useState(""); 
   const [currentPage, setCurrentPage] = useState(1);
   const [imageFile, setImageFile] = useState<File | null>(null);
-
+  const itemsPerPage = 5;
 
   if (!data) return <div>Loading...</div>;
 
